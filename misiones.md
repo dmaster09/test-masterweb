@@ -3,3 +3,5 @@
 * necesito dolares 
 *cambio radical
 *especificaciones branch
+*mision de repartir 
+*mision de percatar
