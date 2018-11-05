@@ -7,3 +7,5 @@
 *Mujer Maravlla
 *Linterna verde
 *volcan negro
+*axio
+*superhan
